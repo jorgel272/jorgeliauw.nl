@@ -1,0 +1,34 @@
+baseURL = 'https://jorgeliauw.nl'
+languageCode = 'en-us'
+title = 'Jorgeliauw.nl'
+theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "G-P8ZKGKRFZ8"
+enableRobotsTXT = false
+enableInlineShortcodes = true
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  date_format = "2 January 2006"
+  text_color = "#000000"
+  author = "Jorge Liauw"
+  favicon = ""
+  site_logo = ""
+  description = "Everything about Google Cloud & Cloud Security"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+  show_reading_time = "true"
+  enableRecaptchaInContactForm = true
+  googleRecaptchaKey = "6LeJq9weAAAAAB9ZoTdpLUIdbbtN7Dhd_f-tHN0x"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/jorgeliauw/"

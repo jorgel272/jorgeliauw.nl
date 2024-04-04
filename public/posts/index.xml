@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jorgeliauw.nl</title>
+    <link>https://jorgeliauw.nl/posts/</link>
+    <description>Recent content in Posts on Jorgeliauw.nl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Mar 2023 21:00:00 +0100</lastBuildDate>
+    <atom:link href="https://jorgeliauw.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Cloud User Group April Edition 2023</title>
+      <link>https://jorgeliauw.nl/posts/google-cloud-user-group-april-2023-edition-announcement/</link>
+      <pubDate>Wed, 22 Mar 2023 21:00:00 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/google-cloud-user-group-april-2023-edition-announcement/</guid>
+      <description>Get ready for the next Google Cloud User Group the April Edition at Flow Traders Amsterdam&#xA;On April 13th, we will host the next edition of the Google Cloud ⛅️ User Group meetup! You&amp;rsquo;ll have the opportunity to hear from experts in the field of Cloud Engineer, DevOps, API Management and Security, ask questions, and connect with other like-minded people.&#xA;We&amp;rsquo;ll have delicious food and awesome goodies for all attendees. You can also win some great Google gadgets during our Quiz.</description>
+    </item>
+    <item>
+      <title>Google Cloud CFT Scorecard</title>
+      <link>https://jorgeliauw.nl/posts/google-cloud-cft-scorecard/</link>
+      <pubDate>Fri, 10 Mar 2023 12:00:00 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/google-cloud-cft-scorecard/</guid>
+      <description>Check your current Google Cloud setup against Google Cloud Foundation Toolkit (CFT), with the CFT Scorecard.&#xA;We will export data, IAM, Org Policy and Access Policy data from Cloud Asset Inventory (CAI).&#xA;The CAI exports can be done on a organization, folder or project level.&#xA;could also use &amp;ndash;project &amp;ndash;folder or &amp;ndash;organization The CFT Scorecard is integrated into the CFT CLI and provides an easy integration with Forseti Config Validator. It can be used to print a scorecard of your GCP environment, for resources and IAM policies in Cloud Asset Inventory (CAI) exports.</description>
+    </item>
+    <item>
+      <title>Google Cloud User Group February Edition 2023</title>
+      <link>https://jorgeliauw.nl/posts/google-cloud-user-group-february-2023-edition/</link>
+      <pubDate>Thu, 16 Feb 2023 21:00:00 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/google-cloud-user-group-february-2023-edition/</guid>
+      <description>Google Cloud User Group February Edition 2023&#xA;Last week we hosted the last Google Cloud ⛅ User Group meetup of 2022! The event was all about Data 🗂 &amp;amp; Analytics 🔎 .&#xA;Big thanks to our guests and presenters for making this a great evening 👏 Vito Minheere and Constantijn Visinescu&#xA;The speakers presented about the topics: Small scale Data Mesh and Analysing streaming data.&#xA;Small scale Data Mesh by Vito Minheere He will introduce the Data Mesh Concepts, how they can be understood and applied.</description>
+    </item>
+    <item>
+      <title>Certified Google Cloud Professional Cloud Security Engineer</title>
+      <link>https://jorgeliauw.nl/posts/google-cloud-certified-professional-cloud-security-engineer/</link>
+      <pubDate>Sat, 31 Dec 2022 11:45:00 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/google-cloud-certified-professional-cloud-security-engineer/</guid>
+      <description>What a better way to end the year 2022, by passing the exam and becoming a certified Google Cloud Professional Cloud Security Engineer 🎉💥&#xA;Looking forward the great events 2023 will bring! I&amp;rsquo;ll be planning to get traing and certified for Google Cloud Professional Cloud Architect, Network Engineer and Cloud DevOps.&#xA;Feel free to contact me if you want to more about getting certified for Google Cloud or other Google Cloud related challenges.</description>
+    </item>
+    <item>
+      <title>Getting inspiration for your smart home</title>
+      <link>https://jorgeliauw.nl/posts/smart-home-inspiration/</link>
+      <pubDate>Tue, 20 Dec 2022 11:45:00 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/smart-home-inspiration/</guid>
+      <description>It&amp;rsquo;s almost the Christmas holidays! The best time of the year to get some new inspiration for making your home smart. Do you already have a smart home? Or looking for some inspiration to make it more convenient and smarter? Then make sure to check out the video.&#xA;At the beginning of December, the crew of Bright TV visited my home for an interview and tour of the smart home solutions I&amp;rsquo;ve implemented.</description>
+    </item>
+    <item>
+      <title>Google Cloud User Group Christmas Edition 2022</title>
+      <link>https://jorgeliauw.nl/posts/google-cloud-user-group-christmas-edition/</link>
+      <pubDate>Thu, 15 Dec 2022 21:45:00 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/google-cloud-user-group-christmas-edition/</guid>
+      <description>Google Cloud User Group Christmas Edition 2022&#xA;Last week we hosted the last Google Cloud ⛅ User Group meetup of 2022! The event was all about Data 🗂 &amp;amp; Analytics 🔎 . Big thanks to our guests and presenters for making this a great evening 👏 Vito Minheere and Constantijn Visinescu&#xA;The speakers presented about the topics: Small scale Data Mesh and Analysing streaming data.&#xA;Small scale Data Mesh by Vito Minheere He will introduce the Data Mesh Concepts, how they can be understood and applied.</description>
+    </item>
+    <item>
+      <title>Recognized as a 2022 Google Cloud Partners All-star</title>
+      <link>https://jorgeliauw.nl/posts/google-cloud-partners-all-star/</link>
+      <pubDate>Sun, 11 Dec 2022 17:30:00 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/google-cloud-partners-all-star/</guid>
+      <description>This week I was recognized by Google Cloud as a 2022 Google Cloud Partners All-star in Solutions Engineering and Delivery! I am really excited and absolutely honoured that I am recognized for the awesome Google Cloud Security initatives and projects I worked on!&#xA;Why I got awared? Jorge, on behalf of the Google Cloud Benelux team we want to say we think you&amp;rsquo;re a true Google Cloud champion! Especially in the way you have made a difference with highly strategic customers such as Mollie, by explaining how Google Cloud makes a difference in security.</description>
+    </item>
+    <item>
+      <title>From freelance to getting back working for a boss</title>
+      <link>https://jorgeliauw.nl/posts/from-freelance-to-getting-back-working-for-a-boss/</link>
+      <pubDate>Tue, 06 Dec 2022 16:30:33 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/from-freelance-to-getting-back-working-for-a-boss/</guid>
+      <description>Freelance Getting back to work for a boss (Xebia)&#xA;Finding the Spark that Drives You&#xA;Jorge Liauw Calo joined Xebia as a Google Cloud Security Engineer in February after freelancing for himself for four years. Here’s his take on the big changes becoming an Xebian brought to his life and what motivated him to make the leap.&#xA;Making Connections Like everyone else in the world, I was ready to be around people again after spending two years at home during the pandemic.</description>
+    </item>
+    <item>
+      <title>Presenting about Cloud Security at Cloud Next 2022</title>
+      <link>https://jorgeliauw.nl/posts/google-cloud-next-2022/</link>
+      <pubDate>Fri, 18 Nov 2022 11:45:00 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/google-cloud-next-2022/</guid>
+      <description>On the 11th of November 2022 I was honourd to present onstage at Google Cloud Next 2022 Recap in Antwerpen, Belgium together with our friends from Google Cloud and Travix.&#xA;During my presentation I talked about why Security is important in the Cloud. The security in the cloud and how to mitage or at least lower the risk around these security risks.&#xA;I discussed the following Security challenges from a process and technical perspective:</description>
+    </item>
+    <item>
+      <title>Meet Traefik Cloud Native Application Proxy</title>
+      <link>https://jorgeliauw.nl/posts/traefik-reverse-proxy-docker/</link>
+      <pubDate>Mon, 09 May 2022 11:19:40 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/traefik-reverse-proxy-docker/</guid>
+      <description>Here comes some great content about what Traefik is and how you can use it to securely expose your services running in Docker to the web.&#xA;Traefik is a Cloud Native Application Proxy just like NGINX. You might already know or work with NIGNX as a standalone webserver, although it&amp;rsquo;s also used a lot as a reverse proxy. They reason I switched to Traefik is because it does the heavy lifting when it comes to load balancing, routing and generating HTTPS certificates.</description>
+    </item>
+    <item>
+      <title>Run Cloud Custodian on Google Cloud</title>
+      <link>https://jorgeliauw.nl/posts/run-cloud-custodian-on-google-cloud/</link>
+      <pubDate>Thu, 24 Mar 2022 11:26:00 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/run-cloud-custodian-on-google-cloud/</guid>
+      <description>Here comes some great content about the best way to run Cloud Custodian on Google Cloud.</description>
+    </item>
+    <item>
+      <title>Cloud Custodian Metrics</title>
+      <link>https://jorgeliauw.nl/posts/cloud-custodian-metrics/</link>
+      <pubDate>Thu, 24 Mar 2022 11:19:51 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/cloud-custodian-metrics/</guid>
+      <description>Here comes some great content about how to send Metrics from Cloud Custodian to Google Cloud.</description>
+    </item>
+    <item>
+      <title>Meet Cloud Custodian</title>
+      <link>https://jorgeliauw.nl/posts/meet-cloud-custodian/</link>
+      <pubDate>Thu, 24 Mar 2022 11:19:40 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/meet-cloud-custodian/</guid>
+      <description>Here comes some great content about what is Cloud Custodian and how to use it to control and maintain Cloud resources that meet your security policies.</description>
+    </item>
+    <item>
+      <title>Cloud Custodian Policy as Code</title>
+      <link>https://jorgeliauw.nl/posts/cloud-custodian-policy-as-code/</link>
+      <pubDate>Thu, 24 Mar 2022 10:37:52 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/cloud-custodian-policy-as-code/</guid>
+      <description>Here comes some great content about how to process multiple policy files with Cloud Custodian (c7n-org).&#xA;Cloud Custodion is a great tool to scan your Cloud enviroments (Google Cloud, AWS and Azure) and check them against defined policies. It&amp;rsquo;s essentially a stateless rules engine for policies and it supports metrics.&#xA;The policies are created in YAML&#xA;What is Policy-As-Code? &amp;hellip;</description>
+    </item>
+    <item>
+      <title>Cloud Custodian Run Multiple Policies</title>
+      <link>https://jorgeliauw.nl/posts/cloud-custodian-run-multiple-policies/</link>
+      <pubDate>Thu, 24 Mar 2022 10:14:43 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/cloud-custodian-run-multiple-policies/</guid>
+      <description>Here comes some great content about how to process multiple policy files with Cloud Custodian (c7n-org).&#xA;HERE SOME AWESOME CODE WILL APPEAR </description>
+    </item>
+    <item>
+      <title>GCP Run Hugo on AppEngine</title>
+      <link>https://jorgeliauw.nl/posts/gcp-run-hugo-on-appengine/</link>
+      <pubDate>Sun, 13 Mar 2022 23:26:55 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/gcp-run-hugo-on-appengine/</guid>
+      <description>Here comes some great content about running Hugo on Google Cloud App Engine.</description>
+    </item>
+    <item>
+      <title>Cloud Build Allow failure</title>
+      <link>https://jorgeliauw.nl/posts/gcp-cloudbuild-allowfailure/</link>
+      <pubDate>Sun, 13 Mar 2022 23:07:21 +0100</pubDate>
+      <guid>https://jorgeliauw.nl/posts/gcp-cloudbuild-allowfailure/</guid>
+      <description>Here comes some great content about Cloud Build on Google Cloud and how to succesful continu build (steps) when errors have occurred.&#xA;HERE SOME AWESOME CODE WILL APPEAR </description>
+    </item>
+    <item>
+      <title>1 year at Xebia and in the Google Cloud</title>
+      <link>https://jorgeliauw.nl/posts/1-year-at-xebia-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jorgeliauw.nl/posts/1-year-at-xebia-cloud/</guid>
+      <description>?TEXT?&#xA;Last week I celebrated working one year at Xebia. Time flies when you&amp;rsquo;re having fun 😀 What better excuse to share some nice cake with other Xebians 🍰&#xA;Every day working with my favorite Cloud almost doesn’t feel like work 😉&#xA;Thank you all at Xebia Google Cloud Mollie and ASML for making this first year awesome with great collaborations and cool Google Cloud Security projects 🎉 Looking forward to what the future will bring!</description>
+    </item>
+    <item>
+      <title>Export Google Cloud Compute Engine disk to VMware Disk</title>
+      <link>https://jorgeliauw.nl/posts/gcp-computeengine-exportdisk-to-vmware-disk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jorgeliauw.nl/posts/gcp-computeengine-exportdisk-to-vmware-disk/</guid>
+      <description>This post will describe how to export and convert your Google Cloud Compute Engine (GCE) disks to a Vmware Disk (vmdk). Think about if you want run some Cloud workloads in a on-premise environment to lower the costs of your test (DTAP) environment.&#xA;... ... ... ... ... ... Export Compute Engine Disk and convert to VMware (vmdk)&#xA;Create a Cloud Storage bucket Name: export-gce-disks gsutil URI gs://export-gce-disks gs://export-gce-disks https://storage.cloud.google.com/export-gce-disks/</description>
+    </item>
+    <item>
+      <title>Future workplace in Google Cloud with Chromebook</title>
+      <link>https://jorgeliauw.nl/posts/future-workplace-with-google-cloud-chromebook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jorgeliauw.nl/posts/future-workplace-with-google-cloud-chromebook/</guid>
+      <description>Here comes some great content about how to create a future workplace in Google Cloud with HP Chromebook, Cameyo (VAD) and Google Cloud.&#xA;Target audience?&#xA;Google Workspace&#xA;HP Chromebook&#xA;Google Cloud Compute Engine Confidential Compute CMKS (Customer Managed Keys)</description>
+    </item>
+    <item>
+      <title>Google Cloud Security Webinar 2nd of November 2022</title>
+      <link>https://jorgeliauw.nl/posts/webinar-cloud-security-on-google-cloud-2nd-november-2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jorgeliauw.nl/posts/webinar-cloud-security-on-google-cloud-2nd-november-2022/</guid>
+      <description>Laurens Baardman &amp;amp; Jorge Liauw Calo in the Xebia Club Cloud Studio On the 2nd of November 2022, we did a webinar at Xebia about Cloud Security on Google Cloud with Laurens Baardman and our fantastic host Walter van der Scheer. During this webinar event, seasoned security experts Laurens Baardman and I shared our best practices to effectively gain insight into security risks and demonstrate how Google Cloud can help you minimize these risks.</description>
+    </item>
+    <item>
+      <title>Google Cloud Storage bucket lock</title>
+      <link>https://jorgeliauw.nl/posts/gcp-protect-your-cloudstorage-backups-against-ransomware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jorgeliauw.nl/posts/gcp-protect-your-cloudstorage-backups-against-ransomware/</guid>
+      <description>Here comes some great content about how to protect your backups stored in Google Cloud Storage (buckets) against ransomware attacks or accidental deletion.&#xA;Retetion policy and bucket lock&#xA;HERE SOME AWESOME CODE WILL APPEAR Reference: https://cloud.google.com/storage/docs/bucket-lock</description>
+    </item>
+    <item>
+      <title>Happy New Car - Volvo XC40 </title>
+      <link>https://jorgeliauw.nl/posts/happy-new-car-volvo-xc40-safety-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jorgeliauw.nl/posts/happy-new-car-volvo-xc40-safety-security/</guid>
+      <description>Happy New Car&#xA;[PHOTO Volvo XC40 Recharge]&#xA;Safety ≠ Security Diagram // Overlap&#xA;Volvo XC40 Recharge has arrived! Fully electric and had twin engine. The power is amazing and is able to bring the ????KG car in 4,9 seconds to the 100KM/sec.&#xA;Design, comfort, power and safety&#xA;So people who know me know that I love the Swedish car brand. This is my 6th Volvo (For the Volvo fans; V40 D2, V40 D4, V60 D6 Twin Engine, XC40 T4, V60 T8 Recharge)</description>
+    </item>
+    <item>
+      <title>Secure Google Cloud with Organizational Policy Services</title>
+      <link>https://jorgeliauw.nl/posts/google-cloud-organizational-policy-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jorgeliauw.nl/posts/google-cloud-organizational-policy-services/</guid>
+      <description>Here comes some great content about how to use Organizational Policy Services (Org. Policies) in Google Cloud to secure your Cloud resources and workloads.&#xA;Org structure&#xA;What is it?&#xA;Constraints&#xA;Protect Limit Be in control How to use it?&#xA;My favorite Organizational Policy to apply&#xA;Name + What it does? + ===&#xA;Google Cloud gives you the ability to restrict the usage of resources and services when utilising Organisation Policy Services.</description>
+    </item>
+  </channel>
+</rss>
